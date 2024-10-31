@@ -30,7 +30,7 @@ public class Examen {
         if (jugadamaquina == 2) System.out.print("La maquina ha sacado Tijeras");
         if (jugadamaquina == 3) System.out.print("La maquina ha sacado Piedra");
 
-        
+        //sin acabar, soy un poco tonto.
     }
 
 
